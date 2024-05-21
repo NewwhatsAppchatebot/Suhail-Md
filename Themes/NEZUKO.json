@@ -3,14 +3,14 @@
     "_JSON_": true,
     "AUTHOR": "SamPandey001",
     "LANGUAGE": "English",
-    "LANGCODE": "en",
+    "LANGCODE": "en", 
     "STRINGS": {
         "updater": {  
             "UPDATE": "Your bot is already on latest version Nii-Chan",
             "NEW_UPDATE": "There is a new update available for the bot!\n\n*Changes:*\n",
             "UPDATED_LOCAL": "Fresh Updates Installed!"
-        },  
-        "global": {   
+        },   
+        "global": {     
             "botName": "𝐍𝐞𝐳𝐮𝐤𝐨",
   
             "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
@@ -35,7 +35,7 @@
             "antlink": "Link Detected.\n*Good Bye Worthless Demon*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and Deploy Branch and Bot will run for Always\n\n*𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐍𝐞𝐳𝐮𝐤𝐨*",
             "mention": " Please mention any user Onii-Chan",
-            "title": "𝐍𝐞𝐳𝐮𝐤𝐨-𝐂𝐡𝐚𝐧",
+            "title": "𝐍𝐞𝐳𝐮𝐤𝐨-𝐂𝐡𝐚𝐧-𝐦𝐝",
             "footer": "𝐊𝐚𝐦𝐚𝐝𝐨-𝐍𝐞𝐳𝐮𝐤𝐨",
             "by": "Made by: CitelVoid",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",

@@ -3,13 +3,13 @@
     "AUTHOR": "SamPandey001",
     "Theme": "Peter-Parker",
     "LANGCODE": "en",
-    "STRINGS": { 
+    "STRINGS": {  
         "updater": { 
             "UPDATE": "*Your bot is already on latest version Darling*",
             "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
             "UPDATED_LOCAL": "*Successfully Updated!*"
-        },     
-        "global": { 
+        },       
+        "global": {  
             "botName": "𝐏𝐚𝐫𝐤𝐞𝐫", 
             "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
             "greet2" : "Dude",
@@ -32,7 +32,7 @@
             "antlink": "Link Detected.\n*Good Bye Bro*",
             "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝒃𝒚 𝒁𝒆𝒓𝒐 𝑻𝒘𝒐*",
             "mention": " Please atleast mention any user bro.",
-            "title": "𝐏𝐞𝐭𝐞𝐫 𝐏𝐚𝐫𝐤𝐞𝐫",
+            "title": "𝐏𝐞𝐭𝐞𝐫 𝐏𝐚𝐫𝐤𝐞𝐫-𝐦𝐝",
             "footer": "𝐏𝐞𝐭𝐞𝐫 𝐏𝐚𝐫𝐤𝐞𝐫",
             "by": "Made by: *CitelVoid*",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
